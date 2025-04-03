@@ -15,12 +15,25 @@
   font-size: 28px;
 }
 
+.links:hover{
+  scale: 1.1;
+}
+
+a:visited{
+  color: black;
+}
+
+a:active{
+  color: brown;
+}
+
 .container-app{
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 10px;
 
   background: hsla(0, 100%, 55%, 1);
 
