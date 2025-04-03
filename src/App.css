@@ -1,6 +1,7 @@
 .links{
-  border: 2px solid black;
-  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  /* border: 2px solid black; */
+  border-radius: 40px;
   width: 30%;
   height: 40px;
   padding: 5px;
